@@ -36,3 +36,7 @@
 # COMMAND ----------
 
 print("25_02_17 - Hi")
+
+# COMMAND ----------
+
+print("25_02_17_1843 - Hi again")
